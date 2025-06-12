@@ -1,0 +1,51 @@
+
+.contenedor {
+    background-color: rgb(194, 138, 180);
+    height: 150vh;
+    margin: 10%;
+    align-items: center;
+    text-align: center;
+    
+    
+}
+h1 { display: flex;
+    justify-content: center;
+    color: rgb(85, 7, 55);
+
+}
+
+h2 { display: flex;
+    justify-content: center;
+    color: rgb(221, 14, 142);
+
+}
+
+a {
+    text-decoration: none;
+    color: rgb(18, 32, 231);
+
+}
+
+h3 { display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.centrar{ 
+    text-align: center;
+    width: 50%;
+
+}
+
+li { display: flex;
+    justify-content: center;
+}
+
+.imagen {
+    width: 350px;
+    height: 430px;
+    border-radius: 50%;
+}
+
